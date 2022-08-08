@@ -4,6 +4,8 @@ _This project was generated with [create-instantsearch-app](https://github.com/a
 
 ## Get started
 
+..
+
 To run this project locally, install the dependencies and run the local server:
 
 ```sh
